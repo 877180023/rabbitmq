@@ -15,19 +15,20 @@ public class test01 {
         System.out.println("i="+i);
         System.out.println("str="+str);
         System.out.println("arr="+ Arrays.toString(arr));
+
         System.out.println("my="+my.a);
         System.out.println("num="+num);
+
     }
 
 
     public  static  void change(int j,String s ,Integer n,int [] a,MyData m){
-        j+=1;
-        s+="world";
-        n+=1;
+        j +=1;
+        s +="world";
+        n +=1;
         a[0]+=1;
         m.a+=1;
     }
-
 }
 
 class MyData{
