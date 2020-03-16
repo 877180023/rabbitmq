@@ -1,0 +1,12 @@
+server:
+  port: 8080
+  servlet:
+     context-path: /rabbit
+     ## rabbitmq config
+spring:
+  rabbitmq:
+     host: 192.168.226.131
+     port: 5672
+     username: springcloud
+     password: 123456
+     virtual-host: my_vhost
