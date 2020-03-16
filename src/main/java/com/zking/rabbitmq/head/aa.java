@@ -1,6 +1,13 @@
 package com.zking.rabbitmq.head;
 
+
+import java.util.Arrays;
+
 public class aa {
+
+    public static void main(String[] args) {
+        int a=1;
+    }
 
         int a  = 123;
         int b = 456;
@@ -12,8 +19,7 @@ public class aa {
     }
 
     public void setA(int a) {
-        System.out.println("谢沁大傻逼");
-        System.out.println("谢沁超级无敌大傻逼");
+        System.out.println("何晓杰大傻逼");
         this.a = a;
     }
 
