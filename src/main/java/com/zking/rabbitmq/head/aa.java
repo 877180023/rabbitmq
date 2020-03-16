@@ -13,6 +13,7 @@ public class aa {
 
     public void setA(int a) {
         System.out.println("谢沁大傻逼");
+        System.out.println("谢沁超级无敌大傻逼");
         this.a = a;
     }
 
