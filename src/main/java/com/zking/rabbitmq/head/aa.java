@@ -19,7 +19,8 @@ public class aa {
     }
 
     public void setA(int a) {
-        System.out.println("何晓杰大傻逼");
+        System.out.println("何晓杰大帅哥");
+        System.out.println("谢沁大傻逼");
         this.a = a;
     }
 
